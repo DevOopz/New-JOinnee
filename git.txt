@@ -1,0 +1,85 @@
+ls
+cd node-todo-cicd/
+ls
+git status 
+ls
+git config --global user.name "devoopz"
+git config --global user.email "shivam.singh8@yahoo.com"
+git config --list
+git --version
+git config --list
+git clone https://github.com/DevOopz/learn-git-githu.git
+ls
+cd learn-git-githu/
+ls
+cat intro 
+nano intro 
+git status
+cat intro 
+git add intro intro intro 
+git status
+git commit -m "modify intro file"
+ git push origin main
+cd ..
+mkdir local folder
+rmdir local
+rmdir folder
+mkdir local-folder
+cd local-folder/
+ls
+ls -a
+git init 
+ls -a
+mkdir index.html
+nano index.html/
+ls
+rmls
+ls
+ls -a
+git status
+ git add .
+ls
+git status
+git commit -m "dekho lo re ek file nbanyi hai"
+git push origin main
+git status 
+git remote add origin https://github.com/DevOopz/new-repo.git
+git remote -v
+git branch
+ git branch -m main
+git branch
+git push -u origin main
+git remote add origin https://github.com/DevOopz/new-repo.git
+git branch
+git push origin main
+git pull origin main
+git push -u origin main
+git remote add origin https://github.com/DevOopz/neo.git
+git remote remove origin https://github.com/DevOopz/new-repo.git
+git remote remove origin main
+git remote rm origin
+git branch
+git remote -v
+git remote remove origin https://github.com/DevOopz/neo.git
+git remote remove https://github.com/DevOopz/neo.git
+git remote remove https://github.com/DevOopz/new-repo.git
+git remote remove origin https://github.com/DevOopz/neo.git
+git remote add origin https://github.com/DevOopz/neo.git
+git remote -v
+git branch
+git push -u origin main
+touch readme.md
+nano readme.md 
+cat readme.md 
+git status 
+git add .
+git commit -m "nahi batanka" 
+git status
+git push
+ls
+history 
+clear
+it remote add origgin https://github.com/DevOopz/Data.git
+git remote add origin https://github.com/DevOopz/Data.git
+exit
+history 
